@@ -1,0 +1,3 @@
+/Users/tristangreeno/ClionProjects/types-demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tristangreeno/ClionProjects/types-demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tristangreeno/ClionProjects/types-demo/cmake-build-debug/CMakeFiles/types_demo.dir

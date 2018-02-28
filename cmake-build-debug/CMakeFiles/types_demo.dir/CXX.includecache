@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tristangreeno/ClionProjects/types-demo/bad_adder.h
+cstdio
+-
+iostream
+-
+
+/Users/tristangreeno/ClionProjects/types-demo/main.cpp
+iostream
+-
+bad_adder.h
+/Users/tristangreeno/ClionProjects/types-demo/bad_adder.h
+
